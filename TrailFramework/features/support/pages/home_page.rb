@@ -1,18 +1,18 @@
 class HomePage
 
 
-  @base_url = nil
+  @@base_url = "http://enoteca.demo.episerver.com/en-US/"
 
   def initialize(browser)
     @browser  = browser
-    @base_url = "http://enoteca.demo.episerver.com/en-US/"
+
     #@log = log
   end
 
 
 
   def visit_home_page
-    @browser.goto(@base_url)
+    @browser.goto(@@base_url)
   end
 
   def search_for_wine(wine_name)
