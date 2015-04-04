@@ -1,0 +1,162 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns='http://www.w3.org/1999/xhtml'>
+  <head>
+    <link href='stylesheets/style.css' type='text/css' rel='stylesheet' />
+    <meta charset="utf-8">
+    <title>Feature Results</title>
+  </head>
+
+  <body>
+    
+    <div style="clear: both; width: 100%; background-color: #F6F6F6;">
+      <a href="lufthansa_result/index.html" style="color=#0071BC;">&lt; Back</a>
+    </div>
+
+    <div style="float:left; clear:both;">
+      <div class="header_logo">
+        <img src="images/logo.jpeg" width="200" />
+      </div>
+      <div class="header_description" >
+          <h2 class="results">Feature Results:  Flight preference</h2>
+<br />
+
+
+        <table class="run_stats">
+          <tr>
+            <td>started:</td>
+            <td>duration:</td>
+          </tr>
+          <tr>
+            <td>Sunday January 25, 2015 at 22:07:36</td>
+            <td>0m55.939s</td>
+          </tr>
+        </table>  
+      </div>
+    </div>
+
+    <div class="summary_body">
+        <table class="StatTable">
+         <tr>
+          <th>Summary</th>
+          <th>Executed</th>
+	  <th class="passed"><img src="images/table_passed.png" alt="passed" title="passed"> Passed</th>
+          <th class="failed"><img src="images/table_failed.png" alt="failed" title="failed"> Failed</th>
+          <th class="skipped"><img src="images/table_skipped.png" alt="skipped" title="skipped"> Skipped</th>
+          <th class="undefined"><img src="images/table_undefined.png" alt="undefined" title="undefined"> Undefined</th>
+          <th class="pending" ><img src="images/table_pending.png" alt="pending" title="pending"> Pending</th>
+          <th>Average Duration</th>
+        </tr>
+
+        <tr class="summary_row_header">
+          <td>Scenarios</td>
+          <td>1</td>
+          <td>0 <span class="percentage">(0.0%)</span></td>
+          <td>1 <span class="percentage">(100.0%)</span></td>
+          <td>0 <span class="percentage">(0.0%)</span></td>
+          <td>0 <span class="percentage">(0.0%)</span></td>
+          <td>0 <span class="percentage">(0.0%)</span></td>
+          <td>0m55.933s</td>
+        </tr>
+        <tr class="summary_row_header">
+          <td>Steps</td>
+          <td>5</td>
+          <td>2 <span class="percentage">(40.0%)</span></td>
+          <td>1 <span class="percentage">(20.0%)</span></td>
+          <td>2 <span class="percentage">(40.0%)</span></td>
+          <td>0 <span class="percentage">(0.0%)</span></td>
+          <td>0 <span class="percentage">(0.0%)</span></td>
+          <td>0m5.556s</td>
+        </tr>
+
+
+      </table>
+	</div>
+
+    <div class="feature_background">
+	    <div class="scenario_list">
+	      <table cellspacing="0" cellpadding="7" border="0" width="100%">
+	      </table>
+	      <br />
+	      <h2 class="scenarios">Scenarios:</h2>
+	      <br />
+	      <table cellspacing="0" cellpadding="7" class="scenario" width="100%">
+	      <tr >
+		  <th colspan="2" class="failed">As authenticated user I want to be able to choose flight preference</th>
+		</tr>
+		  <tr class="borderSeparator">
+		  <td class="image_tag"> <img src="images/passed.png" alt="passed" title="passed"></td>
+		  <td class="">
+   
+		  Given  I am authenticated user
+
+		  </td>
+		  </tr>
+		  <tr class="borderSeparator">
+		  <td class="image_tag"> <img src="images/passed.png" alt="passed" title="passed"></td>
+		  <td class="">
+   
+		  When  I click find flights
+
+		  </td>
+		  </tr>
+		  <tr class="borderSeparator">
+		  <td class="image_tag"> <img src="images/failed.png" alt="failed" title="failed"></td>
+		  <td class="">
+   
+		  When  I click book flights
+	<table>
+		<tr class="error">
+			<td class="message">
+				<strong><pre>unable to locate element, using {:xpath=&gt;&quot;//*[@id=&#39;lh_navigation_FlyoutHandler_0&#39;]/ul/li[1]/a&quot;, :tag_name=&gt;&quot;a&quot;} (Watir::Exception::UnknownObjectException)</pre></strong>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<pre class="ruby"><strong>./features/step_definitions/Lufthansa_flight_preference_step.rb
+</strong><code><span class="linenum">14</span>
+<span class="linenum">15</span><span class="constant">And</span><span class="punct">(/</span><span class="regex">^I click book flights$</span><span class="punct">/)</span> <span class="keyword">do</span>
+<span class="offending"><span class="linenum">16</span>  <span class="attribute">@browser</span><span class="punct">.</span><span class="ident">link</span><span class="punct">(</span><span class="symbol">:xpath</span> <span class="punct">=&gt;</span> <span class="punct">&quot;</span><span class="string">//*[@id='lh_navigation_FlyoutHandler_0']/ul/li[1]/a</span><span class="punct">&quot;).</span><span class="ident">click</span></span>
+<span class="linenum">17</span><span class="keyword">end</span></code></pre>
+			</td>
+		</tr>
+		<tr >
+			<td class="detail">
+					<pre>./features/step_definitions/Lufthansa_flight_preference_step.rb:16:in `/^I click book flights$/&#39;
+features\Lufthansa_flight_preference.feature:6:in `And I click book flights&#39;</pre>
+			</td>
+		</tr>
+	</table>
+
+		  </td>
+		  </tr>
+		  <tr class="borderSeparator">
+		  <td class="image_tag"> <img src="images/skipped.png" alt="skipped" title="skipped"></td>
+		  <td class="skipped_step">
+   
+		  Then  I should be able to choose flight class
+
+		  </td>
+		  </tr>
+		  <tr class="borderSeparator">
+		  <td class="image_tag"> <img src="images/skipped.png" alt="skipped" title="skipped"></td>
+		  <td class="skipped_step">
+   
+		  Then  I also choose airline preference
+
+		  </td>
+		  </tr>
+	      </table>
+	    
+        <div class="img_container">
+	        <br /><br />
+	      </div>
+      </div>
+    </div>
+
+    </div>
+
+    <div class="footer">
+      Generated by PrettyFace
+    </div>
+  </body>
+</html>

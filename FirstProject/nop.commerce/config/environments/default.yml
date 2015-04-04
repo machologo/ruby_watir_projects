@@ -1,0 +1,14 @@
+#base_url:  http://admin-demo.nopcommerce.com/login?ReturnUrl=%2fadmin%2f
+base_url: http://admin-demo.nopcommerce.com/admin/
+
+my_email: admin@yourstore.com
+my_password: admin
+my_start_date: '10/3/2015'
+my-end_date:    '10/5/2015'
+my_firstname: dalogo
+my_surname: disaster
+my_dob: '28/03/1976'
+my_company: machologo
+discount_type: Assinged to order total
+
+
