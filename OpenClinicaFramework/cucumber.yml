@@ -1,0 +1,2 @@
+default: --no-source --color --format pretty  --format PrettyFace::Formatter::Html --out Openclinica_reports/pretty_face_report/index.html
+#default: --no-source --color --format pretty  --format PrettyFace::Formatter::Html --out reports/pretty_face_report/index.html

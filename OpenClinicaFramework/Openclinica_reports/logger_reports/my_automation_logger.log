@@ -1,0 +1,62 @@
+I, [2015-04-29T12:46:26.595129 #4584]  INFO -- : home_url visited successfully
+I, [2015-04-29T12:46:27.124159 #4584]  INFO -- : item searched successfully
+I, [2015-04-29T12:46:27.795197 #4584]  INFO -- : present_displayed successfully
+I, [2015-04-29T12:53:54.000719 #3528]  INFO -- : home_url visited successfully
+I, [2015-04-29T12:53:54.418743 #3528]  INFO -- : item searched successfully
+I, [2015-04-29T12:53:55.011777 #3528]  INFO -- : present_displayed successfully
+I, [2015-04-29T13:01:19.341191 #8124]  INFO -- : home_url visited successfully
+I, [2015-04-29T13:01:19.856220 #8124]  INFO -- : item searched successfully
+I, [2015-04-29T13:01:20.408252 #8124]  INFO -- : present_displayed successfully
+I, [2015-04-29T13:09:55.686724 #6356]  INFO -- : home_url visited successfully
+I, [2015-04-29T13:09:56.417766 #6356]  INFO -- : item searched successfully
+I, [2015-04-29T13:09:57.363820 #6356]  INFO -- : present_displayed successfully
+I, [2015-04-29T13:16:06.484933 #1440]  INFO -- : home_url visited successfully
+I, [2015-04-29T13:16:07.213974 #1440]  INFO -- : item searched successfully
+I, [2015-04-29T13:16:07.877012 #1440]  INFO -- : present_displayed successfully
+I, [2015-04-29T20:58:11.619720 #10232]  INFO -- : home_url visited successfully
+I, [2015-04-29T20:58:12.226754 #10232]  INFO -- : item searched successfully
+I, [2015-04-29T20:58:12.883792 #10232]  INFO -- : present_displayed successfully
+I, [2015-04-29T21:34:03.211784 #7668]  INFO -- : home_url visited successfully
+E, [2015-04-29T21:34:03.232785 #7668] ERROR -- : nil
+D, [2015-04-29T21:34:03.232785 #7668] DEBUG -- : nil
+I, [2015-04-29T21:34:05.977942 #7668]  INFO -- : present_displayed successfully
+I, [2015-04-29T21:40:43.560682 #8380]  INFO -- : home_url visited successfully
+I, [2015-04-29T21:42:06.713438 #8824]  INFO -- : home_url visited successfully
+D, [2015-04-29T21:42:06.717439 #8824] DEBUG -- : Search item was not executed
+I, [2015-04-29T21:42:09.210581 #8824]  INFO -- : present_displayed successfully
+I, [2015-04-29T21:48:58.074967 #8628]  INFO -- : home_url visited successfully
+D, [2015-04-29T21:48:58.077967 #8628] DEBUG -- : Search item was not executed
+I, [2015-04-29T21:52:54.919514 #9456]  INFO -- : home_url visited successfully
+D, [2015-04-29T21:52:54.923514 #9456] DEBUG -- : Search item was not executed
+I, [2015-04-29T21:52:57.566665 #9456]  INFO -- : present_displayed successfully
+I, [2015-04-29T21:59:37.226524 #3528]  INFO -- : home_url visited successfully
+I, [2015-04-29T21:59:38.509598 #3528]  INFO -- : item searched successfully
+I, [2015-04-29T21:59:39.221638 #3528]  INFO -- : present_displayed successfully
+I, [2015-04-29T22:01:45.225846 #11672]  INFO -- : home_url visited successfully
+I, [2015-04-29T22:01:46.315908 #11672]  INFO -- : item searched successfully
+I, [2015-04-29T22:01:47.082952 #11672]  INFO -- : present_displayed successfully
+
+
+I, [2015-05-04T18:59:56.201537 #8812]  INFO -- : home_url visited successfully
+I, [2015-05-04T19:00:01.187822 #8812]  INFO -- : item searched successfully
+I, [2015-05-04T19:00:02.012870 #8812]  INFO -- : present_displayed successfully
+I, [2015-05-04T22:21:55.777737 #7140]  INFO -- : home_url visited successfully
+
+
+
+
+
+I, [2015-05-05T14:04:06.560236 #7756]  INFO -- : home_url visited successfully
+I, [2015-05-05T14:06:16.473666 #6288]  INFO -- : home_url visited successfully
+I, [2015-05-05T14:10:56.817701 #6272]  INFO -- : home_url visited successfully
+I, [2015-05-05T14:17:17.243460 #7796]  INFO -- : home_url visited successfully
+I, [2015-05-05T14:19:45.127919 #8092]  INFO -- : home_url visited successfully
+I, [2015-05-05T14:35:06.961644 #8128]  INFO -- : home_url visited successfully
+I, [2015-05-05T19:09:10.155141 #8416]  INFO -- : home_url visited successfully
+I, [2015-05-05T19:14:10.778336 #8420]  INFO -- : home_url visited successfully
+I, [2015-05-05T19:22:41.924572 #9092]  INFO -- : home_url visited successfully
+I, [2015-05-05T19:27:08.529821 #6660]  INFO -- : home_url visited successfully
+I, [2015-05-05T21:07:35.602550 #8976]  INFO -- : home_url visited successfully
+I, [2015-05-05T21:07:45.314105 #8976]  INFO -- : about page clicked successfully
+I, [2015-05-05T21:07:46.555176 #8976]  INFO -- : Text included demo page
+I, [2015-05-05T21:07:55.200671 #8976]  INFO -- : recorded demo clicked successfully
