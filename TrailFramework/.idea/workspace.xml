@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9d8ceca4-2d7e-49a5-a7c3-77b7689e0aa2" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Autotest/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../Autotest/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../OpenClinica/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../OpenClinica/.idea/workspace.xml" />
     </list>
     <ignored path="TrailFramework.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -16,7 +16,7 @@
     <file path="/hooks.rb" changelist="9d8ceca4-2d7e-49a5-a7c3-77b7689e0aa2" time="1428696159085" ignored="false" />
     <file path="/env.rb" changelist="9d8ceca4-2d7e-49a5-a7c3-77b7689e0aa2" time="1428688434685" ignored="false" />
     <file path="/arinze.rb" changelist="9d8ceca4-2d7e-49a5-a7c3-77b7689e0aa2" time="1428008041071" ignored="false" />
-    <file path="/Dummy.txt" changelist="9d8ceca4-2d7e-49a5-a7c3-77b7689e0aa2" time="1429618944232" ignored="false" />
+    <file path="/Dummy.txt" changelist="9d8ceca4-2d7e-49a5-a7c3-77b7689e0aa2" time="1430907267207" ignored="false" />
     <file path="$PROJECT_DIR$/../Autotest/features/Enotica001_verify_order.feature" changelist="9d8ceca4-2d7e-49a5-a7c3-77b7689e0aa2" time="1429207091272" ignored="false" />
     <file path="/Enotica001_verify_order.feature" changelist="9d8ceca4-2d7e-49a5-a7c3-77b7689e0aa2" time="1429206804045" ignored="false" />
     <file path="$PROJECT_DIR$/../Autotest/Gemfile" changelist="9d8ceca4-2d7e-49a5-a7c3-77b7689e0aa2" time="1428688348408" ignored="false" />
@@ -66,7 +66,7 @@
       <file leaf-file-name="home_page.rb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/features/support/pages/home_page.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="31" selection-start="126" selection-end="126" vertical-scroll-proportion="0.045766592">
+            <state line="15" column="46" selection-start="209" selection-end="209" vertical-scroll-proportion="0.42105263">
               <folding />
             </state>
           </provider>
@@ -151,6 +151,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -283,18 +284,17 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
     <property name="recentsLimit" value="5" />
+    <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="FullScreen" value="false" />
-    <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -479,7 +479,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2646605" sideWeight="0.7781513" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26929012" sideWeight="0.7781513" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22184874" sideWeight="0.5" order="10" side_tool="true" content_ui="tabs" />
@@ -632,16 +632,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/features/support/hooks.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="18" selection-start="27" selection-end="27" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="3" column="18" selection-start="27" selection-end="27" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/features/support/env.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="13" selection-start="162" selection-end="162" vertical-scroll-proportion="0.3501144">
-          <folding />
-        </state>
+        <state line="9" column="13" selection-start="162" selection-end="162" vertical-scroll-proportion="0.3501144" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/features/Enotica_001_verify_order.feature">
@@ -660,7 +656,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/features/support/pages/home_page.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="31" selection-start="126" selection-end="126" vertical-scroll-proportion="0.045766592">
+        <state line="15" column="46" selection-start="209" selection-end="209" vertical-scroll-proportion="0.42105263">
           <folding />
         </state>
       </provider>

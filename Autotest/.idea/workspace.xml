@@ -12,7 +12,7 @@
     <file path="/world_helper.rb" changelist="b0540c15-2544-47f0-82f8-48cb1d5a91c4" time="1430253231159" ignored="false" />
     <file path="/home_page.rb" changelist="b0540c15-2544-47f0-82f8-48cb1d5a91c4" time="1429205726741" ignored="false" />
     <file path="/temp.rb" changelist="b0540c15-2544-47f0-82f8-48cb1d5a91c4" time="1429207717026" ignored="false" />
-    <file path="/Dummy.txt" changelist="b0540c15-2544-47f0-82f8-48cb1d5a91c4" time="1429618939323" ignored="false" />
+    <file path="/Dummy.txt" changelist="b0540c15-2544-47f0-82f8-48cb1d5a91c4" time="1430907326697" ignored="false" />
     <file path="$PROJECT_DIR$/../OpenClinicaFramework/features/Openclinica001_homepage.feature" changelist="b0540c15-2544-47f0-82f8-48cb1d5a91c4" time="1430243847156" ignored="false" />
     <file path="/Openclinica001_homepage.feature" changelist="b0540c15-2544-47f0-82f8-48cb1d5a91c4" time="1430239071567" ignored="false" />
     <file path="$PROJECT_DIR$/../OpenClinicaFramework/features/support/env.rb" changelist="b0540c15-2544-47f0-82f8-48cb1d5a91c4" time="1430252927611" ignored="false" />
@@ -68,7 +68,7 @@
       <file leaf-file-name="home_page_step.rb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/features/support/pages/home_page_step.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="0" selection-start="306" selection-end="306" vertical-scroll-proportion="0.5202822">
+            <state line="21" column="0" selection-start="306" selection-end="306" vertical-scroll-proportion="0.56360424">
               <folding />
             </state>
           </provider>
@@ -107,7 +107,7 @@
   <component name="ProjectFrameBounds">
     <option name="x" value="8" />
     <option name="width" value="1358" />
-    <option name="height" value="729" />
+    <option name="height" value="728" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -233,6 +233,24 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Autotest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Autotest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="features" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="step_definitions" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -241,7 +259,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="recentsLimit" value="5" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../FirstProject/nop.commerce" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
   </component>
   <component name="RunManager" selected="Cucumber.I want to order a wine but I want to verify if the wine exists.">
     <configuration default="false" name="I want to order a wine but I want to verify if the wine exists." type="CucumberRunConfigurationType" factoryName="Cucumber" temporary="true">
@@ -411,14 +429,14 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="8" y="0" width="1358" height="729" extended-state="0" />
+    <frame x="8" y="0" width="1358" height="728" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2685185" sideWeight="0.6795953" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2777778" sideWeight="0.6795953" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3288364" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -590,7 +608,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/features/support/pages/home_page_step.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="0" selection-start="306" selection-end="306" vertical-scroll-proportion="0.5202822">
+        <state line="21" column="0" selection-start="306" selection-end="306" vertical-scroll-proportion="0.56360424">
           <folding />
         </state>
       </provider>
